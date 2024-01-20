@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f20c39127eaa7df428a3b44fff7de25c, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  conditionToWin: 1
+  bottleList:
+  - {fileID: 1533906130250535565, guid: af3d2112d5664084299199d49fd1e40f, type: 3}
+  - {fileID: 6032879291623451694, guid: 8da321392ebcab44c9703f0f1048f2ec, type: 3}

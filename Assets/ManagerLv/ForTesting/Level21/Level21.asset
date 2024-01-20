@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f20c39127eaa7df428a3b44fff7de25c, type: 3}
+  m_Name: Level21
+  m_EditorClassIdentifier: 
+  conditionToWin: 5
+  bottleList:
+  - {fileID: 5534644510696408614, guid: 32cec4b9da5475c48993c098ce5e4242, type: 3}
+  - {fileID: 3045592470059569382, guid: 509db3408d20e924a987591ed0def00a, type: 3}
+  - {fileID: 4984432021908926250, guid: c1e997e0e77dff14083d6477139bc178, type: 3}
+  - {fileID: 4349645907388076862, guid: c50ceac0bb6237443b256fe356ef240f, type: 3}
+  - {fileID: 3446197033461375158, guid: 4e0518d65ef64e44b9ab7db4a26d8cee, type: 3}
+  - {fileID: 4812557549423853629, guid: c53e897a10afc7542a93cbd36181fcea, type: 3}
+  - {fileID: 8046786904080573785, guid: 44077d5faaaa32b4fb0b6795368f40a9, type: 3}
+  posofBottlesInCavas:
+  - {x: -330, y: 405, z: 0}
+  - {x: -110, y: 405, z: 0}
+  - {x: 110, y: 405, z: 0}
+  - {x: 330, y: 405, z: 0}
+  - {x: -220, y: -105, z: 0}
+  - {x: 0, y: -105, z: 0}
+  - {x: 220, y: -105, z: 0}
